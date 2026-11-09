@@ -155,4 +155,4 @@ The server was evaluated locally using a standalone Java integration test progra
 | Connection cycling | 5 rounds of client connections and disconnections | PASS |
 | Manual connection testing | Dozens of connections, reaching Client 49 | No observed failures |
 
-**Integration
+

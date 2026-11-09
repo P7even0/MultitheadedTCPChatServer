@@ -144,8 +144,6 @@ Messages are transmitted as newline-delimited text over TCP.
 
 The server was evaluated locally using a standalone Java integration test program (`ChatServerTests.java`) and a PowerShell script for launching multiple client connections.
 
-The Java integration test program was generated with AI assistance and used exclusively for local verification. It is not included in this repository.
-
 ### Test Results
 
 | Test Scenario | Workload | Result |
